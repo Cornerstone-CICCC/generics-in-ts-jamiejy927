@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    /* File Layout */
+    "rootDir": "./exercises",
+    "outDir": "./dist",
+
+    /* Environment Settings */
+    "module": "nodenext",
+    "target": "esnext",
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+
+    /* Stricter Typechecking Options */
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleDetection": "force",
+    "jsx": "react-jsx"
+  }
+}
